@@ -43,7 +43,7 @@ The application is deployed across two Availability Zones for better availabilit
 
 The architecture diagram is available in:
 
-`architecture/architecture-diagram.png`
+`architecture-diagram.png`
 
 ## Documentation
 
