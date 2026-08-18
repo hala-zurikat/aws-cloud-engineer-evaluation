@@ -38,7 +38,7 @@ I created an IAM role for the EC2 instances.
 
 The role allows EC2 to read the database credentials from Secrets Manager and send logs to CloudWatch.
 
-A Launch Template and user data are used to install and configure WordPress automatically.
+Automated instance deployment using pre-configured Golden AMIs and Launch Templates for consistent scaling.
 
 ## 6. Load Balancer and Auto Scaling
 
