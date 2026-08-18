@@ -6,7 +6,7 @@ I used the main ideas of the AWS Well-Architected Framework while building the p
 
 I used CloudWatch for logs and monitoring.
 
-The EC2 setup is automated using a Launch Template and user data, which makes it easier for Auto Scaling to create replacement instances.
+Automated instance deployment using pre-configured Golden AMIs and Launch Templates for consistent scaling.
 
 ## Security
 
