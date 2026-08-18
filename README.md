@@ -10,7 +10,7 @@ I used WordPress as the application and deployed it in the AWS Europe (Ireland) 
 
 Public link:
 
-http://halla-wordpress-alb-283335240.eu-west-1.elb.amazonaws.com
+https://halla-evaluation.cirrusgo.me/
 
 The application allows users to:
 
@@ -32,6 +32,7 @@ The main services I used are:
 - IAM
 - Secrets Manager
 - CloudWatch
+- Route 53
 
 ## Architecture
 
